@@ -3,8 +3,8 @@
 🚀 **Micro Meme Strategy Token - Professional treasury management through active meme coin rotation**
 
 ## 📖 Live Documentation
-Visit our comprehensive strategy documentation: [
-](https://github.com/MicroMemeStrategy/micro-meme-strategy/blob/main/README.md)
+**Visit our comprehensive strategy documentation:** [https://yourusername.github.io/mms-strategy-docs](https://yourusername.github.io/mms-strategy-docs)
+
 ## 📁 Repository Contents
 - **Complete Strategy Framework** - Professional meme coin investment approach
 - **Multi-Tier Allocation System** - Systematic risk management across opportunity categories  
