@@ -52,7 +52,7 @@
 
 ### 🔥 **Two Investment Cycles**
 
- ┌─────────────────┐           ┌─────────────────┐
+┌─────────────────┐           ┌─────────────────┐
  │  EXCEPTIONAL    │           │ TIER 1: 60%     │
  │  OPPORTUNITIES  │           │ TIER 2: 25%     │
  │     ONLY        │           │ TIER 3: 15%     │
