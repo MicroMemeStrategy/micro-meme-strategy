@@ -1,3 +1,35 @@
+<div align="center">
+
+# 🎯 MMS Strategy Documentation
+
+![MMS Logo](https://imgur.com/0cf13eff-8730-41f8-b2fb-d99c320a821f)
+
+**Professional Treasury Management Through Active Meme Coin Rotation**
+
+[![Strategy Type](https://img.shields.io/badge/Type-Active%20Management-green)](.)
+[![Risk Level](https://img.shields.io/badge/Risk-Professionally%20Managed-yellow)](.)
+[![Returns](https://img.shields.io/badge/Target-Amplified%20Returns-orange)](.)
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+- [🎯 Executive Summary](#executive-summary)
+- [🏦 Token Overview](#token-overview)
+- [⚙️ Core Strategy Framework](#core-strategy-framework)
+- [🛡️ Risk Management Protocol](#risk-management-protocol)
+- [📊 NAV Calculation](#nav-calculation-methodology)
+- [🎮 Trading Strategy](#trading-strategy-implementation)
+- [📈 Performance Tracking](#performance-tracking-and-reporting)
+- [🔮 Technology Infrastructure](#technology-infrastructure)
+- [⚠️ Risk Factors](#risk-factors-and-mitigation)
+- [🏆 Competitive Advantages](#competitive-advantages)
+- [📝 Conclusion](#conclusion)
+
+---
+
 # MMS Strategy Documentation
 
 ## Executive Summary
@@ -87,6 +119,13 @@ The MMS strategy employs two distinct investment cycle approaches, selected base
 - Systematic profit-taking at 5x (50%), 10x (30%), remainder held
 - Weekly performance review and adjustment protocols
 - Emergency liquidation procedures for extreme volatility
+
+### Token Performance Protection Protocol
+- **Underperformance Threshold:** MMS token trading significantly below NAV or treasury backing
+- **Treasury Intervention:** Portion of treasury funds redirected to support token price if required
+- **Buyback Mechanism:** Strategic token purchases using treasury assets during severe undervaluation
+- **Restoration Priority:** Price support only activated when fundamental disconnect occurs between token value and treasury backing
+- **Community Governance:** Major intervention decisions subject to community voting and transparency requirements
 
 ## Trading Strategy Implementation
 
