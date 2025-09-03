@@ -52,11 +52,34 @@
 
 ### 🔥 **Two Investment Cycles**
 
-┌─────────────────┐           ┌─────────────────┐
- │  EXCEPTIONAL    │           │ TIER 1: 60%     │
- │  OPPORTUNITIES  │           │ TIER 2: 25%     │
- │     ONLY        │           │ TIER 3: 15%     │
- └─────────────────┘           └─────────────────┘
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🎯 **CONCENTRATED CYCLE**
+**100% High Conviction**
+
+📊 **Approach:**
+- Full treasury allocation
+- Exceptional opportunities only
+- Maximum capital efficiency
+- Single-focus strategy
+
+</td>
+<td align="center" width="50%">
+
+#### 🌍 **DIVERSIFIED CYCLE** 
+**60/25/15% Split**
+
+📊 **Approach:**
+- **Tier 1:** 60% allocation
+- **Tier 2:** 25% allocation  
+- **Tier 3:** 15% allocation
+- Balanced risk distribution
+
+</td>
+</tr>
+</table>
 
 
 ### ✨ **Key Advantages**
