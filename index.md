@@ -1,25 +1,53 @@
-# MMS Strategy Documentation
+<div align="center">
 
-Welcome to the Micro Meme Strategy (MMS) documentation hub.
+# 🚀 MMS Strategy Documentation
 
-## 🎯 Quick Navigation
-- [📈 Complete Strategy Analysis](mms-strategy)
-- [⚙️ Multi-Tier Framework](mms-strategy#multi-tier-allocation-system)
-- [📊 NAV Methodology](mms-strategy#nav-calculation-methodology)
-- [🛡️ Risk Management](mms-strategy#risk-management-protocol)
+**Micro Meme Strategy Token**  
+*Professional treasury management through active meme coin rotation*
 
-## 🚀 Strategy Overview
-MMS operates as an actively managed treasury token that rotates capital through high-potential meme coins to generate amplified returns through systematic selection criteria and professional risk management.
+![Strategy Badge](https://img.shields.io/badge/Strategy-Active%20Management-blue)
+![Risk](https://img.shields.io/badge/Risk-Managed-green)
+![Returns](https://img.shields.io/badge/Returns-Amplified-orange)
 
-## 📊 Investment Cycles
-**Option A:** Concentrated 100% high conviction opportunities  
-**Option B:** Diversified 60/25/15% multi-tier approach
-
-## 🔥 Key Advantages
-- Professional approach to high-volatility asset class
-- Systematic risk management in speculative investments  
-- Community-driven alpha generation
-- Treasury-backed NAV system with active trading strategies
+</div>
 
 ---
-**Ready to dive deeper?** → [View Complete Strategy](mms-strategy)
+
+## 🎯 Quick Navigation
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📈 **Strategy Analysis**
+[Complete Framework →](mms-strategy.md)
+
+*Systematic selection & rotation*
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ **Multi-Tier System** 
+[View Framework →](mms-strategy.md#multi-tier-allocation-system)
+
+*60/25/15% or 100% allocation*
+
+</td>
+<td align="center" width="33%">
+
+### 🛡️ **Risk Management**
+[View Protocols →](mms-strategy.md#risk-management-protocol)
+
+*Professional controls*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 **Strategy Overview**
+
+> **MMS operates as an actively managed treasury token that rotates capital through high-potential meme coins to generate amplified returns.**
+
+### 🔥 **Two Investment Cycles**
