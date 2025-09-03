@@ -2,7 +2,7 @@
 
 # 🎯 MMS Strategy Documentation
 
-![MMS Logo](https://imgur.com/0cf13eff-8730-41f8-b2fb-d99c320a821f)
+<img src="mms-logo.png" alt="MMS Logo" width="200"/>
 
 **Professional Treasury Management Through Active Meme Coin Rotation**
 
@@ -11,7 +11,6 @@
 [![Returns](https://img.shields.io/badge/Target-Amplified%20Returns-orange)](.)
 
 </div>
-
 ---
 
 ## 📋 Table of Contents
